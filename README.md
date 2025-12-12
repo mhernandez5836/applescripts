@@ -1,4 +1,7 @@
 # Convert Numbers to Excel
+This is an "AppleScript" to be used in order to convert files from Apples "Numbers" spreadsheets (extension .numbers) to Microsofts "Excel" spreadsheet (extension .xlsx).  
+
+Make sure to change the path files in 1 to match your file location inputs and outputs
 
 	-- 1. SETUP PATHS
 	-- Make sure these paths end with a colon ":"
